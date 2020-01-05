@@ -9,3 +9,6 @@ Nigeria Displacement Data - North Central & West Zones - Location Assess
 
 ## Publisher:
 International Organisation for Migration (IOM) The dataset cover the period of 4 September - 16 October 2019 and includes the states mostly affected by displacement including Benue,Nasarawa and Plateau in North Central; Kaduna, Kano, Katsina, Sokoto and Zamfara in North West as shown below:
+
+
+Full details about this analysis is available at: https://medium.com/@codeyans/internal-displacement-in-north-west-central-nigeria-b313c939b3b5
