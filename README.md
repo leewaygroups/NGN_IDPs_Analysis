@@ -1,14 +1,22 @@
-# NGN_IDPs_Analysis
+# An Analysis of Internal Displacement in Selected States in North West and Central Zones of Nigeria
+In recent years, Nigeria has seen a surge in the number of internally displaced persons especially in the northern part of the country. While the affected population have one thing in common - being internally displaced and vulnerable, they may have dissimilar characteristics in terms of demographic and geographic distribution and very importantly reasons for their placement. I believe that a better understanding of these is necessary for all stakeholders involved in delivering humanitarian services to the Internally Displaced Persons (IDPs) and most importantly to all the tiers of the national government.
 
-An Analysis of Internal Displacement in Selected States in North West and Central Zones of Nigeria
 
-The general context of this analysis is Nigeria, while the specific context is some select states in North West and Central zones in Nigeria. The goal is to glean some insight about the Internally Displaced Persons (IDPs) in both zones by asking some specific questions and seeking answers using the dataset described below:
+Having set the general context of this discourse, the specific context is the North West and North Central zones of Nigeria. 
 
-## Dataset:
-Nigeria Displacement Data - North Central & West Zones - Location Assessment
+## Objective
 
-## Publisher:
-International Organisation for Migration (IOM) The dataset cover the period of 4 September - 16 October 2019 and includes the states mostly affected by displacement including Benue,Nasarawa and Plateau in North Central; Kaduna, Kano, Katsina, Sokoto and Zamfara in North West as shown below:
+The objective of this analysis is to glean some insight about the IDPs in the North West and North Central zones of Nigeria by asking some specific questions and seeking answers using a dataset collected by the United Nations International Organisation for Migration (IOM).
+
+Nigeria consists of six(6) geopolitical zones. The scope of this analysis is limited to the two zones mentioned earlier as those were the only zones covered in the dataset provided.
+
+
+## Dataset Description 
+####  Title:
+Nigeria Displacement Data - North Central & West Zones - Location Assessment 
+
+#### Publisher:
+International Organisation for Migration (IOM) The dataset cover the period of 4 September - 16 October 2019 and includes the states mostly affected by displacement including Benue,Nasarawa and Plateau in North Central; Kaduna, Kano, Katsina, Sokoto and Zamfara in North West.
 
 
 Full details about this analysis is available at: https://medium.com/@codeyans/internal-displacement-in-north-west-central-nigeria-b313c939b3b5
