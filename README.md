@@ -28,13 +28,13 @@ Nigeria consists of six(6) geopolitical zones. The scope of this analysis is lim
 
 #### Data understanding
 ##### Dataset Description 
-      Nigeria Displacement Data - North Central & West Zones - Location Assessment 
+Nigeria Displacement Data - North Central & West Zones - Location Assessment 
 
 ##### Publisher:
-    International Organisation for Migration (IOM) The dataset cover the period of 4 September - 16 October 2019 and includes the states     mostly affected by displacement including Benue,Nasarawa and Plateau in North Central; Kaduna, Kano, Katsina, Sokoto and Zamfara in     North West.
+International Organisation for Migration (IOM) The dataset cover the period of 4 September - 16 October 2019 and includes the states     mostly affected by displacement including Benue,Nasarawa and Plateau in North Central; Kaduna, Kano, Katsina, Sokoto and Zamfara in     North West.
 
 #### Data preparation
-    The provided dataset was provided in structured and already cleaned requiring no standard preprocessing before analysis.
+The provided dataset was provided in structured and already cleaned requiring no standard preprocessing before analysis.
 
 
 ## Files in the repository
@@ -44,5 +44,7 @@ Nigeria consists of six(6) geopolitical zones. The scope of this analysis is lim
 
 ## Summary of results drawn from the analysis
 IDPs when present in a state tend to be dispersed across LGAs, women tend to make up more of the IDP population, and communal clashes is the leading reason for displacement in the two zones considered and this is also true in some states.
+
+
 
 Full details about this analysis is available at: https://medium.com/@codeyans/internal-displacement-in-north-west-central-nigeria-b313c939b3b5
