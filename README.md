@@ -12,17 +12,35 @@ The objective of this analysis is to glean some insight about the IDPs in the No
 
 Nigeria consists of six(6) geopolitical zones. The scope of this analysis is limited to the two zones mentioned earlier as those were the only zones covered in the dataset provided.
 
+#### Key questions addressed
+##### Question 1:
+      a. What is the population of the reported IDPs?
+      b. Is the size of the population significantly different between the zones?
+      
+##### Question 2:
+      How is the distribution of IDP sites across Local Government Areas (LGAs) within the states?
+
+##### Question 3:
+      What is the gender distribution in the IDPs across the states?
+      
+##### Question 4:
+      What can the states focus on to stop or reduce the chances of people getting displaced?
+
+#### Data understanding
+##### Dataset Description 
+      Nigeria Displacement Data - North Central & West Zones - Location Assessment 
+
+##### Publisher:
+    International Organisation for Migration (IOM) The dataset cover the period of 4 September - 16 October 2019 and includes the states     mostly affected by displacement including Benue,Nasarawa and Plateau in North Central; Kaduna, Kano, Katsina, Sokoto and Zamfara in     North West.
+
+#### Data preparation
+    The provided dataset was provided in structured and already cleaned requiring no standard preprocessing before analysis.
+
+
 ## Files in the repository
 1. NGN IDPs Analysis.ipynb : This is the notebook file containing the source code and some documentation
 2. idp_data_2.xlsx : This file contains the entire dataset used for this analysis 
 
-
-### Dataset Description 
-####  Title:
-Nigeria Displacement Data - North Central & West Zones - Location Assessment 
-
-#### Publisher:
-International Organisation for Migration (IOM) The dataset cover the period of 4 September - 16 October 2019 and includes the states mostly affected by displacement including Benue,Nasarawa and Plateau in North Central; Kaduna, Kano, Katsina, Sokoto and Zamfara in North West.
 
 ## Summary of results drawn from the analysis
 IDPs when present in a state tend to be dispersed across LGAs, women tend to make up more of the IDP population, and communal clashes is the leading reason for displacement in the two zones considered and this is also true in some states.
